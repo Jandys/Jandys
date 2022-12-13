@@ -14,10 +14,6 @@
 
 ---
 
-- 💞️ I’m looking to collaborate on every interesting project.
-- 📫 How to reach me? Just send me a e-mail on **jandyyysek@seznam.cz**
-
-
 
 <!---
 Jandys/Jandys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
