@@ -1,16 +1,16 @@
 # 👋 Hi, I'am @Jandys
-### I’m interested in Java ☕ 
+### I’m interested in Java ☕ & Kotlin💻💙
 ##### What I know 🤷‍♂️
 - [x] ☕ Java
-- [x] 🌐 HTML
-- [x] 🎨 CSS
-- [x] 🌱 Spring boot
-- [x] 📑 JavaScript Basics (React)
-
-##### What am I learning? 🎓
-- [ ] 📑 Advanced JavaScript
-- [ ] 📧 JMS
-- [ ] 🌱 Advanced Spring
+- [x] 💻💙 Kotlin
+- [x] 🌐 HTML 🎨 CSS 📑 JavaScript 
+- [x] 🌱 Spring boot 🌱 Spring
+- [x] 🐘 PostgreSQL 🍃 MongoDB 🌊 MySQL
+- [x] 🐳📦 Docker 🏗️ Jenkins 🌿📦 Git
+- [x] 📝 TDD 🎭 Mockito 🔬 Unit Tests 🔌 Integration tests
+- [x] 📨 JMS 🎯 AOP
+- [x] 📜 XML 🧩 JSON
+- [x] 🐧 Linux 🪟 Windows
 
 ---
 
